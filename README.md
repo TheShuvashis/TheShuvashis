@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheShuvashis
-- 👀 I’m interested in Machine learning and Gamedevelopment
-- 🌱 I’m currently learning Gamedevelopment
+- 👀 I’m interested in Aerospace and Game development
+- 🌱 I’m currently learning Game development
 
 <!---
 TheShuvashis/TheShuvashis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
